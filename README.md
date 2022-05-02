@@ -1,2 +1,2 @@
 # chat-realtime
-Chat websocket com express, ejs e socket.io
+Chat websocket com express, socket.io, ejs e jquery
